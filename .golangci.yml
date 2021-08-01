@@ -1,0 +1,12 @@
+linters:
+  disable:
+    - exhaustivestruct
+    - gochecknoglobals
+    - gochecknoinits
+    - goerr113
+    - golint
+    - gomnd
+    - interfacer
+    - maligned
+    - scopelint
+  enable-all: true
